@@ -2,8 +2,8 @@
 
 ## Contacts
 
-* [Telegram:](https://t.me/Lucky_Luchianno)
-* [VK:](https://vk.com/lucky.flucky)  
+* [Telegram](https://t.me/Lucky_Luchianno)
+* [VK](https://vk.com/lucky.flucky)  
 
 ## About me
 
@@ -17,6 +17,7 @@ I have no experience with real tasks, but sometimes I made  simple apps on JS. F
 * Online calculator
 * Online translator
 * Some algorithms with numbers  
+
 Unfortunatelly, I haven't saved these apps.
 
 ## English 
