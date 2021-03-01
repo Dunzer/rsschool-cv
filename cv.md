@@ -14,7 +14,7 @@ Since April 2020, I started learning English, because this is one of the very im
 I have no experience with real tasks, but sometimes I made  simple apps on JS. For example:
 * Online calculator
 * Online translator
-* Some algorithms with numbers
+* Some algorithms with numbers  
 Unfortunatelly, I haven't saved these apps.
 
 ## English 
